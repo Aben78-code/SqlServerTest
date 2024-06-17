@@ -1,0 +1,4 @@
+CREATE TABLE SimpleTable(
+    ID INT PRIMARY KEY,
+    Name NVARCHAR(20)
+);
